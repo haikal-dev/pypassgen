@@ -44,3 +44,5 @@ For example, if you want to generate an 8-character string containing lowercase 
 ```bash
 python3 model.py 8 -lud
 ```
+
+<img src="example.png" width="600" />
